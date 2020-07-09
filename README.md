@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋,
+I’m a product designer currently working on the [Roadtrippers](https://maps.roadtrippers.com/) platform.
 
 <!--
 **kocheck/kocheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
