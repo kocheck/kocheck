@@ -5,7 +5,6 @@ I’m a product designer currently working on the [Roadtrippers][roadtripperslin
 - 🔭 I’m currently working on a fun DnD iOS App
 - 🌱 I’m currently learning Swift UI
 - 👯 I’m looking to collaborate on just about anything. I perfer to collaborate.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about design, Figma, or Zoom Coffee
 - 📫 How to reach me: [Twitter][twitterlink] would work the best right now.
 
