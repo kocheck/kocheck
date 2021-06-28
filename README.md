@@ -2,20 +2,19 @@
 
 I’m a product designer currently working on the [Roadtrippers][roadtripperslink] & [Togo RV][togolink] platforms.
 
-- 🔭 I’m currently working on [Paper Pixels Design System][paper-pixel-design-link].
-- 🌱 I’m currently learning [PUG][pug-link].
+- 🔭 I’m currently working on my first iPhone App.
+- 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on just about anything. I perfer to collaborate.
-- 🤔 I’m looking for help with building design tools.
 - 💬 Ask me about design, Figma, or Zoom Coffee.
 - 📫 How to reach me: [Twitter][twitterlink] would work the best right now.
-- 🗂 I want to learn more Swift UI, & work on my DnD App Next.
+- 🗂 I want to learn more Swift UI.
 
 <!-- Links -->
 
 [roadtripperslink]: https://maps.roadtrippers.com/
 [togolink]: https://togorv.com/
 [twitterlink]: https://twitter.com/KyleKochanek
-[pug-link]: https://pugjs.org/api/getting-started.html
+
 
 <!-- Repos -->
 
