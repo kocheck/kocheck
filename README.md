@@ -2,7 +2,6 @@
 
 I am currently building a headless design system for [Roadpass Digital][roadpasslink]. 
 
-- 🔥 Working on ~redacted for now~.
 - 🔭 Thinking about what the next generation of design tools, and mentoring looks like.
 - 💬 Talk to me about design, design systems, Figma, or sci-fi von Neumann probes over a Zoom Coffee.
 - 📫 How to reach me: [Twitter][twitterlink] would work the best right now.
