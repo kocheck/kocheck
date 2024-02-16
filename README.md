@@ -1,18 +1,14 @@
 ### Hi there 👋,
 
-I am currently building a headless design system for [Roadpass Digital][roadpasslink]. 
+I am currently working on B2B and B2C applications for PokerAtlas. 
 
 - 🔭 Thinking about what the next generation of design tools, and mentoring looks like.
 - 💬 Talk to me about design, design systems, Figma, or sci-fi von Neumann probes over a Zoom Coffee.
-- 📫 How to reach me: [Twitter][twitterlink] would work the best right now.
 - 😄 Pronouns: He/Him
 
 
 <!-- Links -->
 
-[roadpasslink]: https://roadpass.com/
-
-[twitterlink]: https://twitter.com/KyleKochanek
 
 
 
