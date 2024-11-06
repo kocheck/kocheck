@@ -1,28 +1,37 @@
-### Hi there 👋,
+# 👋 Hi, I'm Kyle Kochanek
 
-I am currently working on B2B and B2C applications for PokerAtlas. 
+I'm a Product Designer who turns complex challenges into elegant solutions. I blend systematic thinking with creative problem-solving to craft exceptional B2B and B2C experiences.
 
-- 🔭 Thinking about what the next generation of design tools, and mentoring looks like.
-- 💬 Talk to me about design, design systems, Figma, or sci-fi von Neumann probes over a Zoom Coffee.
-- 😄 Pronouns: He/Him
+## 🎯 What I'm About
 
+- **Design Systems Architect:** Creating scalable design languages that amplify team efficiency
+- **Product Vision:** Transforming early concepts into market-ready products people love
+- **Force Multiplier:** Empowering teams to achieve more through systems thinking
+- **Team Catalyst:** Mentoring designers and fostering innovation-driven cultures
 
-<!-- Links -->
+## 💻 Tech & Tools
 
+- **Design:** Figma, Storybook, Adobe Creative Suite
+- **Development:** React, React Native, HTML/CSS/JS, Hugo
+- **Systems:** Design Tokens, Tailwind, Component Libraries
+- **Collaboration:** Git, Jira, Notion
 
+## 🚀 Recent Projects
 
+- [Bonfire Design System](#) - A unified design system powering multiple platforms
+- [Roadtrippers Platform](#) - Enhanced trip planning tools and navigation
+- [PokerAtlas Experience](#) - B2B/B2C product design solutions
 
-<!--
-**kocheck/kocheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Focus
 
-Here are some ideas to get you started:
+- Exploring the intersection of design tools and human potential
+- Building scalable design systems that empower teams
+- Crafting accessible and inclusive digital experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+
+- Portfolio: [kylekochanek.com](https://kylekochanek.com)
+- LinkedIn: [Kyle Kochanek](https://www.linkedin.com/in/kylekochanek/)
+- Email: [hello+github@kylekochanek.com](mailto:hello+github@kylekochanek.com)
+
+> "form follows function, and purpose enables refinement"
