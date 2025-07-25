@@ -1,37 +1,26 @@
-# 👋 Hi, I'm Kyle Kochanek
+# 👋 Hey there, I'm Kyle Kochanek!
 
-I'm a Product Designer who turns complex challenges into elegant solutions. I blend systematic thinking with creative problem-solving to craft exceptional B2B and B2C experiences.
+I'm a Software Designer with a love for turning chaotic problems into sleek, user-loving solutions. Think of me as a design wizard who mixes logic, creativity, and a dash of caffeine to build awesome experiences. Currently geeking out over a few smaller personal projects at the moment.
 
-## 🎯 What I'm About
+## 🎯 What Drives My Design Mojo
 
-- **Design Systems Architect:** Creating scalable design languages that amplify team efficiency
-- **Product Vision:** Transforming early concepts into market-ready products people love
-- **Force Multiplier:** Empowering teams to achieve more through systems thinking
-- **Team Catalyst:** Mentoring designers and fostering innovation-driven cultures
+-  **Design Systems Architect:** Building scalable design empires that make teams feel like superheroes (and actually ship faster).
+-  **Product Visionary:** Taking wild ideas from napkin sketches to "Whoa, that's live?!" products that users can't put down.
+-  **Force Multiplier:** Arming teams with systems that turn "good" into "game-changing" – because collaboration shouldn't feel like herding cats.
+-  **Team Catalyst:** Mentoring up-and-coming designers and sparking those "aha!" moments that fuel innovative vibes.
 
-## 💻 Tech & Tools
+## 💻 My Toolkit of Wonders
 
-- **Design:** Figma, Storybook, Adobe Creative Suite
-- **Development:** React, React Native, HTML/CSS/JS, Hugo
-- **Systems:** Design Tokens, Tailwind, Component Libraries
-- **Collaboration:** Git, Jira, Notion
+-  **Design Magic:** Figma (my daily playground), Sketch/Penpot (Evening Hacking)
+-  **Dev Shenanigans:** React, React Native, HTML/CSS/JS, Breathing JSON for one reason or another
+-  **System Sorcery:** Design Tokens, Tailwind, Component Libraries, More JSON...
+-  **Team Vibes:** Git, Linear, Obsidian
 
-## 🚀 Recent Projects
+## 📫 Let's Chat – Coffee's on Me!
 
-- [Bonfire Design System](#) - A unified design system powering multiple platforms
-- [Roadtrippers Platform](#) - Enhanced trip planning tools and navigation
-- [PokerAtlas Experience](#) - B2B/B2C product design solutions
+-  Portfolio: [dogreat.work](https://dogreat.work/) – Come see the magic!
+-  LinkedIn: [Kyle Kochanek](https://www.linkedin.com/in/kylekochanek/) – Let's connect and swap war stories.
+-  Email: [hello+github@kylekochanek.com](mailto:hello+github@kylekochanek.com) – Hit me up for collabs, advice, or just to geek out.
 
-## 🔭 Current Focus
+> "Form follows function, and purpose enables refinement"  😎
 
-- Exploring the intersection of design tools and human potential
-- Building scalable design systems that empower teams
-- Crafting accessible and inclusive digital experiences
-
-## 📫 Let's Connect
-
-- Portfolio: [kylekochanek.com](https://kylekochanek.com)
-- LinkedIn: [Kyle Kochanek](https://www.linkedin.com/in/kylekochanek/)
-- Email: [hello+github@kylekochanek.com](mailto:hello+github@kylekochanek.com)
-
-> "form follows function, and purpose enables refinement"
