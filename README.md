@@ -1,7 +1,5 @@
 # Hey there, I'm Kyle 👋
 
-Software Designer who builds with design & code.
-
 I believe the best products come from people who can both imagine the experience and implement it. No handoffs, no translation layer, no "that's not what I designed" moments. Just ideas turning into shipped features.
 
 Currently at BreakLine. Previously built design systems at RoadPass, products at Roadtrippers, ClearSpend, PokerAtlas, and WhatAbout.
