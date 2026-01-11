@@ -1,26 +1,57 @@
-# 👋 Hey there, I'm Kyle Kochanek!
+# Hey there, I'm Kyle 👋
 
-I'm a Software Designer with a love for turning chaotic problems into sleek, user-loving solutions. Think of me as a design wizard who mixes logic, creativity, and a dash of caffeine to build awesome experiences. Currently geeking out over a few smaller personal projects at the moment.
+Software Designer who builds with design & code.
 
-## 🎯 What Drives My Design Mojo
+I believe the best products come from people who can both imagine the experience and implement it. No handoffs, no translation layer, no "that's not what I designed" moments. Just ideas turning into shipped features.
 
--  **Design Systems Architect:** Building scalable design empires that make teams feel like superheroes (and actually ship faster).
--  **Product Visionary:** Taking wild ideas from napkin sketches to "Whoa, that's live?!" products that users can't put down.
--  **Force Multiplier:** Arming teams with systems that turn "good" into "game-changing" – because collaboration shouldn't feel like herding cats.
--  **Team Catalyst:** Mentoring up-and-coming designers and sparking those "aha!" moments that fuel innovative vibes.
+Currently at BreakLine. Previously built design systems at RoadPass, products at Roadtrippers, ClearSpend, PokerAtlas, and WhatAbout.
 
-## 💻 My Toolkit of Wonders
+## 🔥 What I'm Building
 
--  **Design Magic:** Figma (my daily playground), Sketch/Penpot (Evening Hacking)
--  **Dev Shenanigans:** React, React Native, HTML/CSS/JS, Breathing JSON for one reason or another
--  **System Sorcery:** Design Tokens, Tailwind, Component Libraries, More JSON...
--  **Team Vibes:** Git, Linear, Obsidian
+**[Lazy Export](https://github.com/kocheck/lazy-export)** - Figma plugin for developer-friendly asset exports  
+One click. Assets exported and organized for iOS, Android, and Web. Because clicking Export 50 times is nobody's idea of a good time. ☕
 
-## 📫 Let's Chat – Coffee's on Me!
+**[Obsidian Figma Viewer](https://github.com/kocheck/obsidian-figma-viewer)** - Embed Figma files in your markdown notes  
+Built because I needed it. V2 coming soon with auth support for locked files.
 
--  Portfolio: [dogreat.work](https://dogreat.work/) – Come see the magic!
--  LinkedIn: [Kyle Kochanek](https://www.linkedin.com/in/kylekochanek/) – Let's connect and swap war stories.
--  Email: [hello+github@kylekochanek.com](mailto:hello+github@kylekochanek.com) – Hit me up for collabs, advice, or just to geek out.
+**[Sketch Weaver](https://github.com/kocheck/sketch-weaver)** - Local LLM-powered design data injection  
+Uses Ollama to inject realistic data into Figma designs. Because Lorem Ipsum is boring and manual data entry is worse.
 
-> "Form follows function, and purpose enables refinement"  😎
+## 💡 My Design Philosophy
 
+**Form follows function, and purpose enables refinement.**
+
+I don't believe in rigid design frameworks. Real problem-solving involves navigating chaos with clear goals. Design is an ethos that guides you in creating products that enhance people's lives—not a step-by-step process from A to B.
+
+## 🛠 My Toolkit
+
+**Design Magic:** Figma (my daily playground), Sketch (where I cut my teeth)  
+**Dev Shenanigans:** React, TypeScript, JavaScript, HTML/CSS  
+**Systems Sorcery:** Design tokens, component libraries, breathing JSON  
+**Tool Building:** Figma plugins, workflow automation, anything that saves time
+
+## 🎯 What Drives Me
+
+I lose track of time when I can see and feel progress. Creating a feedback loop that transforms idea execution into tangible results is addictive. That's where I find the most joy in what I do.
+
+I'm hyper-independent—I'll learn whatever I need to be successful. This means I can both build the vision *and* debug why the SVG is 35MB. (True story btw fixed it.)
+
+## 🌱 Open Source Ethos
+
+I strongly believe open source is the best type of source. Creating for the love of the game. GitHub is my playground—a place to build things that others can engage with, benefit from, and learn from.
+
+If any of my projects help you, that's the point. Use them. Break them. Make them better. Open a PR. Or just star them so I know someone cared. ⭐
+
+
+## 📫 Let's Connect
+
+**Portfolio:** [dogreat.work](https://dogreat.work)  
+**LinkedIn:** [linkedin.com/in/kylekochanek](https://linkedin.com/in/kylekochanek)  
+**Bluesky:** [@kylekochanek.com](https://bsky.app/profile/kylekochanek.com)  
+**Figma Community:** [@kocheck](https://figma.com/@kocheck)
+
+Coffee's on me! ☕
+
+---
+
+<sub>🧙‍♂️ Design wizard | 🫀 Husband & Dad | ✨ Pattern recognition enthusiast | 🤓 Sci-fi von Neumann probe discussant</sub>
