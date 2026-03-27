@@ -1,13 +1,13 @@
 # Hey there, I'm Kyle 👋
 
-**Design Engineer** who bridges design and engineering — building the systems, tooling, and shared language that help cross-functional teams move together. Fluent in Figma and React.
+**Design Engineer** who bridges design and engineering — building the systems, tooling, and shared language that help cross-functional teams move together. Fluent in Figma and React, strongest when surrounded by people who aren't designers.
 
 Currently at [BreakLine](https://www.breakline.org). Previously built design systems at Roadpass Digital, products at Roadtrippers, ClearSpend, PokerAtlas, and WhatAbout.
 
 ## 🔥 What I'm Building
 
 **[Lazy Export](https://github.com/kocheck/lazy-export)** — Figma plugin for developer-friendly asset exports
-One click. Assets exported and organized for iOS, Android, and Web. ☕
+One click. Assets exported and organized for iOS, Android, and Web. 10K+ downloads. ☕
 
 **[Obsidian Figma Viewer](https://github.com/kocheck/obsidian-figma-viewer)** — Embed Figma files in your markdown notes
 Built because I needed it. V2 coming soon with auth support for locked files.
@@ -17,7 +17,7 @@ Uses Ollama to inject realistic data into Figma designs. Because Lorem Ipsum is 
 
 ## 🛠 My Toolkit
 
-**Design:** Figma (daily driver), design tokens, component libraries, interaction & motion design, Sketch
+**Design:** Figma (daily driver), design tokens, component libraries, interaction & motion design
 **Code:** React, TypeScript, Next.js, Tailwind CSS, HTML/CSS, CSS animation
 **Systems:** Design language systems, governance, accessibility, multi-platform (React, React Native, WordPress, Rails)
 **Building:** Figma plugins, workflow automation, LLM-powered design tools
@@ -32,7 +32,7 @@ I don't believe in rigid design frameworks. Real problem-solving involves naviga
 
 I lose track of time when I can see and feel progress. Creating a feedback loop that transforms idea execution into tangible results is addictive.
 
-I'm a bridge-builder by nature — I learn whatever I need to make the people around me more effective. I can sketch the vision in Figma _and_ debug why the SVG is 35MB. (True story btw. Discovered it, Fixed it.) But I'm at my best when I'm connecting disciplines, not working in isolation.
+I'm a bridge-builder by nature — I learn whatever I need to make the people around me more effective. I can sketch the vision in Figma _and_ debug why the SVG is 35MB. (True story btw. Fixed it.) But I'm at my best when I'm connecting disciplines, not working in isolation.
 
 ## 🌱 Open Source Ethos
 
@@ -46,6 +46,8 @@ If any of my projects help you, that's the point. Use them. Break them. Make the
 **LinkedIn:** [linkedin.com/in/kylekochanek](https://linkedin.com/in/kylekochanek)
 **Bluesky:** [@kylekochanek.com](https://bsky.app/profile/kylekochanek.com)
 **Figma Community:** [@kocheck](https://figma.com/@kocheck)
+
+Currently exploring product design and design leadership roles. Coffee's on me! ☕
 
 ---
 
