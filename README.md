@@ -40,7 +40,7 @@ Open source is the best type of source. If my projects help you, that's the poin
 
 **Portfolio:** [kocheck.dev](https://kocheck.dev)
 **LinkedIn:** [linkedin.com/in/kylekochanek](https://linkedin.com/in/kylekochanek)
-**Bluesky:** [@kylekochanek.com](https://bsky.app/profile/kylekochanek.com)
+**Bluesky:** [@kylekochanek.com](https://bsky.app/profile/kocheck.bsky.social)
 **Figma Community:** [@kocheck](https://figma.com/@kocheck)
 
 ---
