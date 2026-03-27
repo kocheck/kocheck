@@ -1,10 +1,12 @@
 # Hey there, I'm Kyle 👋
 
-**Design Engineer** who bridges design and engineering — building the systems, tooling, and shared language that help cross-functional teams move together. Fluent in Figma and React, strongest when surrounded by people who aren't designers.
+Design Engineer with 10+ years bridging design and frontend engineering. I'm fluent in Figma and React/TypeScript, and I use that to build the systems, tooling, and shared language that help cross-functional teams actually move together. I'm at my best when I'm helping both sides do their best work.
 
-Currently at [BreakLine](https://www.breakline.org). Previously built design systems at Roadpass Digital, products at Roadtrippers, ClearSpend, PokerAtlas, and WhatAbout.
+**🟢 Open to Senior / Staff Design Engineer roles.** [Let's talk →](https://linkedin.com/in/kylekochanek)
 
-## 🔥 What I'm Building
+Previously: BreakLine, Roadpass Digital, Roadtrippers, ClearSpend, PokerAtlas.
+
+## 🔥 What I'm building
 
 **[Lazy Export](https://github.com/kocheck/lazy-export)** — Figma plugin for developer-friendly asset exports
 One click. Assets exported and organized for iOS, Android, and Web. 10K+ downloads. ☕
@@ -13,41 +15,33 @@ One click. Assets exported and organized for iOS, Android, and Web. 10K+ downloa
 Built because I needed it. V2 coming soon with auth support for locked files.
 
 **[Sketch Weaver](https://github.com/kocheck/sketch-weaver)** — Local LLM-powered design data injection
-Uses Ollama to inject realistic data into Figma designs. Because Lorem Ipsum is boring and manual data entry is worse.
+Uses Ollama to inject realistic data into Sketch designs. Because Lorem Ipsum is boring and manual data entry is worse.
 
-## 🛠 My Toolkit
+## 🛠 My toolkit
 
-**Design:** Figma (daily driver), design tokens, component libraries, interaction & motion design
-**Code:** React, TypeScript, Next.js, Tailwind CSS, HTML/CSS, CSS animation
-**Systems:** Design language systems, governance, accessibility, multi-platform (React, React Native, WordPress, Rails)
-**Building:** Figma plugins, workflow automation, LLM-powered design tools
+- **Design:** Figma (daily driver), design tokens, component libraries, interaction & motion design
+- **Code:** React, TypeScript, Next.js, Tailwind CSS, HTML/CSS, CSS animation
+- **Systems:** Design language systems, governance, accessibility, multi-platform (React, React Native, WordPress, Rails)
+- **Building:** Figma plugins, workflow automation, LLM-powered design tools
 
-## 💡 Design Philosophy
+## 💡 What I actually do
 
-**Form follows function, and purpose enables refinement.**
+Most of what I do is make the people around me faster. I can sketch the vision in Figma _and_ debug why the SVG is 35MB. (True story btw. Fixed it.)
 
-I don't believe in rigid design frameworks. Real problem-solving involves navigating chaos with clear goals. Design is an ethos that guides you in creating products that enhance people's lives — not a step-by-step process from A to B.
+I don't fit cleanly into "designer" or "engineer" and I stopped trying to. Design systems, dev experience, UX engineering, the translation layer between disciplines where things tend to fall through the cracks. If designers and engineers keep hitting the same pain point, I'll build something to fix it (a plugin, an automation, a shared template).
 
-## 🎯 What Drives Me
+Form follows function, and purpose enables refinement. I take goals, context, and apply them as a bias toward building.
 
-I lose track of time when I can see and feel progress. Creating a feedback loop that transforms idea execution into tangible results is addictive.
+## 🌱 Open source
 
-I'm a bridge-builder by nature — I learn whatever I need to make the people around me more effective. I can sketch the vision in Figma _and_ debug why the SVG is 35MB. (True story btw. Fixed it.) But I'm at my best when I'm connecting disciplines, not working in isolation.
+Open source is the best type of source. If my projects help you, that's the point. Use them. Break them. Make them better. Open a PR. Or just star them so I know someone cared. ⭐
 
-## 🌱 Open Source Ethos
-
-I strongly believe open source is the best type of source. GitHub is my playground — a place to build things that others can engage with, benefit from, and learn from.
-
-If any of my projects help you, that's the point. Use them. Break them. Make them better. Open a PR. Or just star them so I know someone cared. ⭐
-
-## 📫 Let's Connect
+## 📫 Let's connect
 
 **Portfolio:** [kocheck.dev](https://kocheck.dev)
 **LinkedIn:** [linkedin.com/in/kylekochanek](https://linkedin.com/in/kylekochanek)
 **Bluesky:** [@kylekochanek.com](https://bsky.app/profile/kylekochanek.com)
 **Figma Community:** [@kocheck](https://figma.com/@kocheck)
-
-Currently exploring product design and design leadership roles. Coffee's on me! ☕
 
 ---
 
